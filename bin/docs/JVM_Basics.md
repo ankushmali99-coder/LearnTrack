@@ -16,5 +16,5 @@ Java is comes with JVM which is able to execute bytecode and that bytecode is un
 e.g. 
 Java code which is implemented on windows operating system can be executed on any operating system. And this feature of preparing and running bytecode on any machine and without dependancy can be executed on any machine call write once, run anywhere.
 
-
+==========================================================================================
  

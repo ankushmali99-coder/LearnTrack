@@ -2,7 +2,7 @@ package com.airtribe.learntrack.entity;
 
 public class Person {
 	
-	// Private fields
+	// Private fields for review
 	private int id;
 	private String firstName;
 	private String lastName;

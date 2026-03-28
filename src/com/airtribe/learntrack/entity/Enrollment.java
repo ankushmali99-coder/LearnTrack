@@ -11,7 +11,7 @@ public class Enrollment {
     private LocalDate enrollmentDate;
     private EnrollmentStatus status;
 
-    // Default constructor added as best practice
+    // Default constructor added as best practice for review
     public Enrollment() {}
 
     // Parameterized constructor to set object creation values

@@ -7,4 +7,4 @@ How to compile and run: Download all files and folder structure which is java pr
 		2. From command prompt run command by navigating to root folder. 
 			command: javac -d *.java
 		
----------------------------------------------------------		
+------------------------------------------------------------		
