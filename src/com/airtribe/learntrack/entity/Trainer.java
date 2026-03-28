@@ -5,7 +5,7 @@ public class Trainer extends Person{
 	private String expertise;
 	private boolean active;
 	
-	
+	//for review
 	public Trainer(int id, String firstName, String lastName, String email, String experties, boolean active) {
 		super(id, firstName, lastName, email);
 		this.expertise = experties;
